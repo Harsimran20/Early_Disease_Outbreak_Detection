@@ -17,12 +17,12 @@ This project uses natural language processing (NLP) and geospatial analysis to d
 ## 📁 Project Structure
 
 📦 disease-outbreak-detection
-│
-├── 🧾 outbreak_map.html # Interactive map showing alerts
-├── 📜 model_training.py # Tweet preprocessing, training, and visualization
-├── 📊 sample_tweet_data.csv # Input tweet data (optional)
-├── 🧠 model.pkl # Saved classifier model (optional)
-├── 📝 README.md # Project documentation
+
+- ├── 🧾 outbreak_map.html # Interactive map showing alerts
+- ├── 📜 model_training.py # Tweet preprocessing, training, and visualization
+- ├── 📊 sample_tweet_data.csv # Input tweet data (optional)
+- ├── 🧠 model.pkl # Saved classifier model (optional)
+- ├── 📝 README.md # Project documentation
 
 ---
 
